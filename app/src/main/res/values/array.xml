@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="city_name">
+      <item>北京</item>
+      <item>上海</item>
+      <item>呼和浩特</item>
+      <item>深圳</item>
+      <item>重庆</item>
+      <item>那然色布斯台音布拉</item>
+      <item>成都</item>
+      <item>长沙</item>
+    </string-array>
+</resources>
